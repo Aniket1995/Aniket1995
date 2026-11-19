@@ -64,7 +64,6 @@ I am a Software Engineer and Agentic Systems Architect with **9.4+ years of dist
 ## 🛠️ Developer Frameworks & Architecture Standards
 
 - **[AI-Rules](https://github.com/Aniket1995/AI-Rules)**: Production engineering framework establishing context-window preservation, modularity constraints (`<500 LOC`), and deterministic two-tier planning workflows (`@PLANNING`, `@TASK`) for autonomous AI coding agents.
-- **[Promptium](https://github.com/Aniket1995/Promptium)**: Multi-panel interactive developer workspace for prompt engineering, token boundary optimization, and model evaluation.
 
 ---
 
