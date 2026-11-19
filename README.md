@@ -61,11 +61,9 @@ I am a Software Engineer and Agentic Systems Architect with **9.4+ years of dist
 
 ---
 
-## 🛠️ Personal AI Systems & Developer Tooling
+## 🛠️ Developer Frameworks & Architecture Standards
 
-- **[VibeCodingHelper](https://github.com/Aniket1995/VibeCodingHelper)**: Local multimodal agent supervisor utilizing local Gemma 3 Vision (`gemma3:4b` via Ollama) to continuously observe screen states, detect stalled or waiting agent loops, and autonomously inject structured recovery context (`@PLANNING`, `@TASK`) into fresh execution threads.
-- **[Herdrdeck](https://github.com/Aniket1995/herdrdeck)**: Enterprise-grade infrastructure for orchestrating headless AI coding agents (Claude Code, Codex CLI) across remote Apple Silicon / Linux environments over a zero-trust WireGuard/Tailscale encrypted mesh.
-- **[AI-Rules](https://github.com/Aniket1995/AI-Rules)**: Production framework for deterministic human-AI software engineering, establishing context-window preservation, modularity constraints (`<500 LOC`), and structured two-tier planning workflows.
+- **[AI-Rules](https://github.com/Aniket1995/AI-Rules)**: Production engineering framework establishing context-window preservation, modularity constraints (`<500 LOC`), and deterministic two-tier planning workflows (`@PLANNING`, `@TASK`) for autonomous AI coding agents.
 - **[Promptium](https://github.com/Aniket1995/Promptium)**: Multi-panel interactive developer workspace for prompt engineering, token boundary optimization, and model evaluation.
 
 ---
