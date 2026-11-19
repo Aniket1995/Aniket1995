@@ -46,7 +46,7 @@ I am a Software Engineer and Agentic Systems Architect with **9.4+ years of expe
 ## 💬 What Leaders Say
 
 > *"I worked with Aniket and can speak directly to the quality of his work. He builds AI agents from scratch that do real, meaningful work, not demos or proofs of concept. His agent harnesses and the systems he designs around them actually guide agents to complete tasks reliably... Aniket has both strong engineering fundamentals and deep AI expertise. That pairing makes him far more effective at shipping products that work in the real world rather than just in a notebook."*  
-> — **Carter Rees, PhD**, SVP, AI Engineering at Reputation (May 2026)
+> — **Carter Rees, PhD**, VP, AI Engineering at Reputation (May 2026)
 
 ---
 
