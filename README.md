@@ -38,12 +38,12 @@ I am a Software Engineer and Agentic Systems Architect with **9.4+ years of dist
 - **Engineering Solutions**:
   - **Local Model Execution**: Integrated offline local inference pipelines using Ollama (LLaMA) and dynamic vector embeddings using `nomic-embed-text` with environment-variable-driven model switching (**Merged [PR #2](https://github.com/coleam00/Archon/pull/2)**).
   - **Model Context Protocol (MCP)**: Extended V3 Model Context Protocol routing to bridge external tools with locally running LLMs.
-  - **Thought-Process Telemetry**: Architected a real-time background telemetry daemon and interactive UI widget that captures, polls, and streams the agent's intermediate reasoning steps, tool calls, and documentation lookups ([PR #98](https://github.com/coleam00/Archon/pull/98)).
+  - **Thought-Process Telemetry**: Architected a real-time background telemetry daemon and interactive UI widget that captures, polls, and streams the agent's intermediate reasoning steps, tool calls, and documentation lookups ([PR #98](https://github.com/coleam00/Archon/pull/98); commended by founder Cole Medin).
   - **Iteration Enhancements**: Added missing execution handlers to support multi-step iteration stability (**Merged [PR #46](https://github.com/coleam00/Archon/pull/46)**).
 - **Evidence & Code**:
   - 🚀 **Merged PR #2**: [Local Ollama/LLaMA & Vector Embeddings](https://github.com/coleam00/Archon/pull/2) *(Merged by Core Maintainer)*
   - 🚀 **Merged PR #46**: [Iteration Enhancements](https://github.com/coleam00/Archon/pull/46) *(Merged by Core Maintainer)*
-  - 🔍 **Telemetry PR #98**: [Thought Process Observability Daemon](https://github.com/coleam00/Archon/pull/98)
+  - 🔍 **Telemetry PR #98**: [Thought Process Observability Daemon](https://github.com/coleam00/Archon/pull/98) *(Commended by founder Cole Medin)*
 - **Core Tech**: `Python`, `Ollama`, `LLaMA`, `Vector Embeddings (nomic-embed-text)`, `Model Context Protocol (MCP)`, `Agent Telemetry`, `AsyncIO`.
 
 ---
