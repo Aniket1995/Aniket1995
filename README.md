@@ -71,7 +71,7 @@ I am a Software Engineer and Agentic Systems Architect with **9.4+ years of dist
 
 | Domain | Core Technologies & Architecture Patterns |
 | :--- | :--- |
-| **AI & Agent Orchestration** | Google Agent Development Kit (Google ADK), Model Context Protocol (MCP), Chrome DevTools MCP, LangGraph State Machines, Local Inference (Ollama/LLaMA), Structured Outputs, RAG, Eval Frameworks |
+| **AI & Agent Orchestration** | Google Agent Development Kit (Google ADK), Vertex AI Agent Platform, Gemini Skills, Model Context Protocol (MCP), Chrome DevTools MCP, LangGraph State Machines, Local Inference (Ollama/LLaMA), Structured Outputs, RAG, Eval Frameworks |
 | **AI-Accelerated Engineering** | Spec-Driven Development (GSD Core), OpenCode + LiteLLM, Claude Opus 5.5 / Sonnet 5.5, Gemini 3 / Antigravity, Herdr, Neovim, Hunk Diff |
 | **Backend & Distributed Systems** | Java (17/16), Spring Boot, Apache Thrift, Python (AsyncIO, FastAPI, Pydantic), Microservices, Event-Driven Architecture, REST APIs |
 | **Cloud, Data & DevOps** | Google Cloud Platform (GCP), AWS, Docker, MongoDB, Redis, PostgreSQL, MySQL, RabbitMQ, Jenkins CI/CD, ELK Stack, Linux |
