@@ -1,4 +1,4 @@
-# Hi there, I'm Aniket Bhanavase 👋
+# Hi there, I'm Aniket Bhanavase
 
 ### Applied AI & Agentic Systems Architect | Open-Source Systems Contributor
 
@@ -11,7 +11,7 @@ I am a Software Engineer and Agentic Systems Architect with **9.4+ years of dist
 
 ---
 
-## ⚡ Native Linux Systems & Hardware Engineering (Agentic GenAI & Omarchy)
+## Native Linux Systems & Hardware Engineering (Agentic GenAI & Omarchy)
 
 > *Daily driving an Arch Linux-based agentic operating system (**[Omarchy](https://github.com/basecamp/omarchy)**), I serve as the **System Architect** directing frontier GenAI agents (**Google Antigravity powered by Gemini 3.8 Flash**) to implement complete, production-grade native desktop plugins and low-level hardware controllers end-to-end. Built on top of the open-source ACPI-WMI kernel driver reverse-engineered by [Jafar Akhondali](https://github.com/JafarAkhondali).*
 
@@ -35,7 +35,7 @@ I am a Software Engineer and Agentic Systems Architect with **9.4+ years of dist
 
 ---
 
-## 🏛️ Upstream Open-Source Engineering Experience
+## Upstream Open-Source Engineering Experience
 
 > *I treat open-source engineering exactly like enterprise production software: analyzing large foreign codebases, resolving root-cause bugs, writing defensive regression test suites, and collaborating with distributed core maintainers.*
 
@@ -49,8 +49,8 @@ I am a Software Engineer and Agentic Systems Architect with **9.4+ years of dist
   - Stabilized scroll state dependency callbacks using size references (`sizeRef`) to isolate dynamic terminal layout shifts from token streaming events.
 - **Testing & Verification**: Authored automated regression test suites in `ScrollProvider.test.tsx` (*"Infinite Loop Prevention"*), ensuring deterministic terminal stability under rapid mounting/unmounting cycles. Engaged with core maintainers on root-cause defensive design.
 - **Evidence & Code**:
-  - 🔍 **Root Cause Report**: [Issue #22409](https://github.com/google-gemini/gemini-cli/issues/22409) (*CLI Crash with "Maximum update depth exceeded"*)
-  - 🛠️ **Upstream Pull Requests**: [PR #22334](https://github.com/google-gemini/gemini-cli/pull/22334) & [PR #22505](https://github.com/google-gemini/gemini-cli/pull/22505) (*Fix/scroll overflow v2*)
+  - **Root Cause Report**: [Issue #22409](https://github.com/google-gemini/gemini-cli/issues/22409) (*CLI Crash with "Maximum update depth exceeded"*)
+  - **Upstream Pull Requests**: [PR #22334](https://github.com/google-gemini/gemini-cli/pull/22334) & [PR #22505](https://github.com/google-gemini/gemini-cli/pull/22505) (*Fix/scroll overflow v2*)
 - **Core Tech**: `TypeScript`, `React / Ink CLI Architecture`, `React Reconciler`, `Concurrency`, `Async Token Streaming UX`.
 
 ---
@@ -65,9 +65,9 @@ I am a Software Engineer and Agentic Systems Architect with **9.4+ years of dist
   - **Thought-Process Telemetry**: Architected a real-time background telemetry daemon and interactive UI widget that captures, polls, and streams the agent's intermediate reasoning steps, tool calls, and documentation lookups ([PR #98](https://github.com/coleam00/Archon/pull/98); commended by founder Cole Medin).
   - **Iteration Enhancements**: Added missing execution handlers to support multi-step iteration stability (**Merged [PR #46](https://github.com/coleam00/Archon/pull/46)**).
 - **Evidence & Code**:
-  - 🚀 **Merged PR #2**: [Local Ollama/LLaMA & Vector Embeddings](https://github.com/coleam00/Archon/pull/2) *(Merged by Core Maintainer)*
-  - 🚀 **Merged PR #46**: [Iteration Enhancements](https://github.com/coleam00/Archon/pull/46) *(Merged by Core Maintainer)*
-  - 🔍 **Telemetry PR #98**: [Thought Process Observability Daemon](https://github.com/coleam00/Archon/pull/98) *(Commended by founder Cole Medin)*
+  - **Merged PR #2**: [Local Ollama/LLaMA & Vector Embeddings](https://github.com/coleam00/Archon/pull/2) *(Merged by Core Maintainer)*
+  - **Merged PR #46**: [Iteration Enhancements](https://github.com/coleam00/Archon/pull/46) *(Merged by Core Maintainer)*
+  - **Telemetry PR #98**: [Thought Process Observability Daemon](https://github.com/coleam00/Archon/pull/98) *(Commended by founder Cole Medin)*
 - **Core Tech**: `Python`, `Ollama`, `LLaMA`, `Vector Embeddings (nomic-embed-text)`, `Model Context Protocol (MCP)`, `Agent Telemetry`, `AsyncIO`.
 
 ---
@@ -80,18 +80,18 @@ I am a Software Engineer and Agentic Systems Architect with **9.4+ years of dist
   - Authored a proactive Python dimensioning tool bridge (`bounds_tool.py`) enabling LLMs to query exact geometry, text bounds, and container dimensions before generating canvas elements.
   - Implemented mathematical bounding box calculations (`bounds.py`) and hierarchical collision detection algorithms supporting nested parent-child groupings and directional connectors.
 - **Evidence & Code**:
-  - 🛠️ **Active Pull Request**: [PR #10](https://github.com/coleam00/excalidraw-diagram-skill/pull/10) (*Feat: Deterministic bounds and collision detection*)
+  - **Active Pull Request**: [PR #10](https://github.com/coleam00/excalidraw-diagram-skill/pull/10) (*Feat: Deterministic bounds and collision detection*)
 - **Core Tech**: `Python`, `Agent Tool Calling`, `Computational Geometry`, `Claude Code Skills`, `Architecture Modeling`.
 
 ---
 
-## 🛠️ Developer Frameworks & Architecture Standards
+## Developer Frameworks & Architecture Standards
 
 - **[AI-Rules](https://github.com/Aniket1995/AI-Rules)**: Production engineering framework establishing context-window preservation, modularity constraints (`<500 LOC`), and deterministic two-tier planning workflows (`@PLANNING`, `@TASK`) for autonomous AI coding agents.
 
 ---
 
-## 💻 Technical Competencies Matrix
+## Technical Competencies Matrix
 
 | Domain | Core Technologies & Architecture Patterns |
 | :--- | :--- |
@@ -103,14 +103,14 @@ I am a Software Engineer and Agentic Systems Architect with **9.4+ years of dist
 
 ---
 
-## 💬 What Engineering Leaders Say
+## What Engineering Leaders Say
 
 > *"I worked with Aniket and can speak directly to the quality of his work. He builds AI agents from scratch that do real, meaningful work, not demos or proofs of concept. His agent harnesses and the systems he designs around them actually guide agents to complete tasks reliably... Aniket has both strong engineering fundamentals and deep AI expertise. That pairing makes him far more effective at shipping products that work in the real world rather than just in a notebook."*  
 > — **Carter Rees, PhD**, VP, AI Engineering at Reputation (May 2026)
 
 ---
 
-## 🎓 Education & Google Cloud Credentials
+## Education & Google Cloud Credentials
 
 - **B.Tech. in Computer Science and Engineering** — Walchand College of Engineering, Sangli (2013 – 2017) | GPA: 7.8
 - **Deploy Multi-Agent Architectures (Advanced Skill Badge)** — Google Cloud (Credential ID: 25379894)
@@ -119,7 +119,7 @@ I am a Software Engineer and Agentic Systems Architect with **9.4+ years of dist
 
 ---
 
-## 📫 Connect & Collaborate
+## Connect & Collaborate
 
 - **LinkedIn**: [linkedin.com/in/aniket-bhanavase0208](https://linkedin.com/in/aniket-bhanavase0208)
 - **Email**: [abhanavase@gmail.com](mailto:abhanavase@gmail.com)
