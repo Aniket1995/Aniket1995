@@ -2,7 +2,7 @@
 
 ### Applied AI & Agentic Systems Architect | Open-Source Systems Contributor
 
-I am a Software Engineer and Agentic Systems Architect with **9.4+ years of distributed systems and backend engineering experience**, specializing in taking autonomous AI agents from experimental notebooks into high-throughput, mission-critical enterprise production. I bridge event-driven polyglot microservices (Python, Java 17, GCP) with frontier LLM orchestration to build deterministic, production-grade autonomous systems. Daily driving Arch Linux (**[Omarchy Agentic OS](https://github.com/basecamp/omarchy)**), I also engineer native desktop extensions, hardware telemetry controllers, and low-level Linux systems tooling.
+I am a Software Engineer and Agentic Systems Architect with **9.4+ years of distributed systems and backend engineering experience**, specializing in taking autonomous AI agents from experimental notebooks into high-throughput, mission-critical enterprise production. I bridge event-driven polyglot microservices (Python, Java 17, GCP) with frontier LLM orchestration to build deterministic, production-grade autonomous systems. Daily driving Arch Linux (**[Omarchy Agentic OS](https://github.com/basecamp/omarchy)**), I also architect native desktop extensions, hardware telemetry controllers, and low-level Linux systems tooling using frontier GenAI (**Google Antigravity & Gemini 3.8 Flash**).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-bhanavase0208)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abhanavase@gmail.com)
@@ -11,26 +11,27 @@ I am a Software Engineer and Agentic Systems Architect with **9.4+ years of dist
 
 ---
 
-## ⚡ Native Linux Systems & Hardware Engineering (Arch Linux / Omarchy Daily Driver)
+## ⚡ Native Linux Systems & Hardware Engineering (Agentic GenAI & Omarchy)
 
-> *Daily driving an Arch Linux-based agentic operating system (**[Omarchy](https://github.com/basecamp/omarchy)**), I build native desktop extensions, hardware telemetry controllers, and low-level device interfaces communicating directly with the Linux kernel (`/sys`, `/dev`, `udev`, and `DKMS`).*
+> *Daily driving an Arch Linux-based agentic operating system (**[Omarchy](https://github.com/basecamp/omarchy)**), I serve as the **System Architect** directing frontier GenAI agents (**Google Antigravity powered by Gemini 3.8 Flash**) to implement complete, production-grade native desktop plugins and low-level hardware controllers end-to-end. Built on top of the open-source ACPI-WMI kernel driver reverse-engineered by [Jafar Akhondali](https://github.com/JafarAkhondali).*
 
 ### 1. [omarchy-predator-turbo](https://github.com/Aniket1995/omarchy-predator-turbo) — Native Omarchy Status Bar Widget & Hardware Turbo Controller
 *First-class Omarchy (Quickshell) bar widget & interactive hardware control center for Acer Predator Helios laptops*
 
-- **Kernel & Sysfs Interfacing**: Interfaces directly with `/sys/devices/platform/acer-wmi/turbo_mode` and `/sys/class/hwmon/` via sudoless `systemd-tmpfiles` / `udev` rules, unlocking non-root desktop session control over proprietary ACPI-WMI gaming overclock methods.
-- **Hardware Telemetry & GPU Animation**: Features a 60fps GPU-accelerated dual-layer aerodynamic turbine animation, 270° radial tachometer arc gauge, real-time dual fan RPM telemetry (CPU & GPU), live GPU clock/memory/temp/power tracking, and instant hardware Turbo switching.
-- **Ecosystem Integration**: Distributed as a native Omarchy package installable directly via `omarchy plugin add`.
-- **Core Tech**: `Linux Kernel (sysfs)`, `udev / tmpfiles.d`, `Quickshell / Qt Quick / QML`, `Hardware Telemetry`, `Acer ACPI-WMI / facer`.
+- **GenAI-Native Implementation**: Conceived and architecturally directed by Aniket; engineered end-to-end using **Google Antigravity (Gemini 3.8 Flash)** to synthesize reactive QML desktop components, 60fps GPU turbine shader animations, and real-time hardware telemetry polling loops.
+- **Architectural Decisions & Systems Design**: Designed the non-blocking state machine, sudoless permission model (`systemd-tmpfiles` / `udev` rules) for `/sys/devices/platform/acer-wmi/turbo_mode` and `/sys/class/hwmon/`, and graceful fallback to read-only monitoring mode.
+- **Upstream Driver Attribution**: Built on top of the open-source ACPI-WMI kernel module driver (`facer` / `acer-predator-turbo-and-rgb-keyboard-linux-module`) authored by **[Jafar Akhondali (@JafarAkhondali)](https://github.com/JafarAkhondali)**.
+- **Core Tech**: `Google Antigravity (Gemini 3.8 Flash)`, `Linux Kernel (sysfs)`, `udev / tmpfiles.d`, `Quickshell / Qt Quick / QML`, `Hardware Telemetry`.
 
 ---
 
 ### 2. [omarchy-predator-rgb](https://github.com/Aniket1995/omarchy-predator-rgb) — Native 4-Zone RGB Backlight Control Center
 *First-class Omarchy (Quickshell) bar widget & interactive 4-Zone RGB keyboard control center for Acer Predator laptops*
 
-- **Character Device Control**: Communicates directly with `/dev/acer-gkbbl-0` and `/dev/acer-gkbbl-static-0` character device nodes without sudo/root prompts, enabling instant low-level hardware backlight manipulation from standard user desktop sessions.
-- **Interactive Visualizer & Hardware Modes**: Real-time interactive 4-zone keyboard visualizer (WASD, Mid-Left, Mid-Right, Numpad) supporting all 6 hardware lighting modes (Static, Breathing, Neon Spectrum, Rainbow Wave, Color Shifting, Zoom Pulse), direction/speed steppers, dynamic sleep dimming, and quick presets.
-- **Core Tech**: `Linux Character Devices (/dev)`, `Kernel Module Interface (facer)`, `Quickshell / Qt Quick / QML`, `Hardware Controls`.
+- **GenAI-Native Implementation**: Architecturally specified and implemented end-to-end using **Google Antigravity (Gemini 3.8 Flash)**, synthesizing complex 4-zone interactive keyboard visualizers, dynamic sleep dimming, and byte-level protocol payloads for character device writes.
+- **Architectural Decisions & Hardware Controls**: Designed the visual state manager, presets engine, and direct user-session communication with `/dev/acer-gkbbl-0` and `/dev/acer-gkbbl-static-0` character devices supporting all 6 hardware lighting modes (Static, Breathing, Neon Spectrum, Rainbow Wave, Color Shifting, Zoom Pulse).
+- **Upstream Driver Attribution**: Built on top of the Linux character device interface exposed by **[Jafar Akhondali's](https://github.com/JafarAkhondali)** open-source DKMS driver.
+- **Core Tech**: `Google Antigravity (Gemini 3.8 Flash)`, `Linux Character Devices (/dev)`, `Kernel Module Interface (facer)`, `Quickshell / Qt Quick / QML`, `Hardware Controls`.
 
 ---
 
@@ -95,7 +96,7 @@ I am a Software Engineer and Agentic Systems Architect with **9.4+ years of dist
 | Domain | Core Technologies & Architecture Patterns |
 | :--- | :--- |
 | **AI & Agent Orchestration** | Google Agent Development Kit (Google ADK), Vertex AI Agent Platform, Gemini Skills, Model Context Protocol (MCP), Chrome DevTools MCP, LangGraph State Machines, Local Inference (Ollama/LLaMA), Structured Outputs, RAG, Eval Frameworks |
-| **AI-Accelerated Engineering** | Spec-Driven Development (GSD Core), OpenCode + LiteLLM, Claude Opus 5.5 / Sonnet 5.5, Gemini 3 / Antigravity, Herdr, Neovim, Hunk Diff |
+| **AI-Accelerated Engineering** | Google Antigravity (Gemini 3.8 Flash), Spec-Driven Development (GSD Core), OpenCode + LiteLLM, Claude Opus 5.5 / Sonnet 5.5, Gemini 3, Herdr, Neovim, Hunk Diff |
 | **Backend & Distributed Systems** | Java (17/16), Spring Boot, Apache Thrift, Python (AsyncIO, FastAPI, Pydantic), Microservices, Event-Driven Architecture, REST APIs |
 | **Linux & Systems Engineering** | Arch Linux (Daily Driver), Omarchy (Agentic OS), Kernel Interfaces (`/sys`, `/dev`, `udev`), Quickshell / Qt Quick / QML, Bash, Concurrency |
 | **Cloud, Data & DevOps** | Google Cloud Platform (GCP), AWS, Docker, MongoDB, Redis, PostgreSQL, MySQL, RabbitMQ, Jenkins CI/CD, ELK Stack |
